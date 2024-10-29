@@ -1,6 +1,10 @@
 body{
+<<<<<<< HEAD
+    background: #ffffff;
+=======
     background: #BDBDBD;
 }
 .custom-size {
     font-size: 100px; 
+>>>>>>> 82a037ef9bc63ce8e328181f280557e87278b244
 }
